@@ -30,8 +30,8 @@ namespace sonarcloud.Controllers
             .ToArray();
         }
 
-        [HttpGet(Name = "GetWeatherForecast1")]
-        public IEnumerable<WeatherForecast> Get2()
+        [HttpGet(Name = "GetWeatherForecast")]
+        public IEnumerable<WeatherForecast> Get()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
