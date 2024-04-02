@@ -41,5 +41,3 @@ namespace sonarcloud.Controllers
             })
             .ToArray();
         }
-    }
-}
