@@ -29,5 +29,7 @@ namespace sonarcloud.Controllers
             })
             .ToArray();
         }
+
+        qwertyui;
     }
 }
