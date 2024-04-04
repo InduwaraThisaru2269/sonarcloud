@@ -11,8 +11,6 @@ namespace sonarcloud.Controllers
 
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","123456"
 
-            
-
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
@@ -33,5 +31,4 @@ namespace sonarcloud.Controllers
             })
             .ToArray();
         }
-    }
-}
+
