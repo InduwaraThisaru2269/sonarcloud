@@ -9,9 +9,9 @@ namespace sonarcloud.Controllers
         private static readonly string[] Summaries = new[]
         {
 
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","123456"
 
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "12345678", "Hot", "Sweltering", "Scorching", "loltrue"
+            
 
         };
 
